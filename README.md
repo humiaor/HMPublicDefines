@@ -1,0 +1,2 @@
+# HMPublicDefines
+Public defines
